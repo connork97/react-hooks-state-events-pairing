@@ -1,5 +1,11 @@
 # ReactTube
 
+App
+- DisplayVideo 
+-   Information
+-   Buttons
+-   Comments
+
 ## Learning Goals
 
 - Train yourself to
